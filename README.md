@@ -1,6 +1,6 @@
 # realms-of-pythonia
 
-Python practice project demonstrating dictionaries, nested data, file I/o with KSON, and menu-driven programs in a fantasy realm setting
+Python practice project demonstrating dictionaries, nested data, file I/O with JSON, and menu-driven programs in a fantasy realm setting
 
 This project was originally developed for my Software Workshop 1 module at the University of Birmingham MSc Computer Science course as part of learning core Python programming concepts.
 With a bit of cleanup and tweaking from my original submission, I have completed the program to fit the spec and here it is!
